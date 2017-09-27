@@ -1,0 +1,5 @@
+processor\SalesTaxesProcessor.class
+utils\Category.class
+entity\Product.class
+entity\ShoppingBasket.class
+utils\CsvReader.class
