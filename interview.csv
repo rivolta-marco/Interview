@@ -1,0 +1,5 @@
+name,category,price,imported,quantity
+bottle of perfume,NORMAL,27.99,true,1
+bottle of perfume,NORMAL,18.99,false,1
+packet of headache pills,TAX_FREE,9.75,false,1
+box of chocolates,TAX_FREE,11.25,true,1
